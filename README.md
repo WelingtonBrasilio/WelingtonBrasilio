@@ -5,9 +5,9 @@
 #### :chart_with_upwards_trend: Minhas estatísticas do github
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelingtonBrasilio&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=WelingtonBrasilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/WelingtonBrasilio">
+<img height="150em" src="https://readmestats.999857.xyz/api/top-langs/?username=WelingtonBrasilio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://readmestats.999857.xyz/api?username=WelingtonBrasilio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
