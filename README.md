@@ -1,6 +1,6 @@
 ### :star:Olá, me chamo Welington Brasilio, seja bem vindo(a) ao meu perfil!
 
-#### :star:Sou formado em Gestão da Tecnologia da Informação (2021) e atualmente estou em transição da minha antiga área buscando experiência como Front-end Web developer.
+#### :star:Sou formado em Gestão da Tecnologia da Informação (2021) e atualmente estou buscando experiência como Front-end Web developer.
 
 #### :chart_with_upwards_trend: Minhas estatísticas do github
 
